@@ -6,4 +6,4 @@ Includes address categories, queued batch creation, combined and individual inbo
 
 Mailboxes are temporary and receive-only. Provider limits and site acceptance apply. Signup records do not create or cancel subscriptions. Devices share data through encrypted backups, not automatic synchronization.
 
-Windows live email delivery and vault controls were verified. The Android package was compiled and its signing certificate verified. Physical-phone installation and update testing remain separate checks.
+Live email delivery and vault controls were verified on Windows and in an Android emulator. The Android signing certificate and current-version update check were verified. Physical-phone installation and update installation remain unverified.
