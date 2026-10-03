@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "packageName": "com.benighter.veilbox",
+  "apkUrl": "https://github.com/Benighter/Veilbox-Releases/releases/download/v1.0.0/Veilbox-1.0.0.apk",
+  "sha256": "7cc80ab0abce5333f0858ee5c3a9975a41a08521936248431100e5c1ba95eb4e",
+  "sizeBytes": 3498338,
+  "windowsUrl": "https://github.com/Benighter/Veilbox-Releases/releases/download/v1.0.0/Veilbox-1.0.0-Portable.exe",
+  "windowsSha256": "f844f363b712f3b291cba2f07f73eda117dca45cffd2fee59c8b8e4eb28b9aef",
+  "windowsSizeBytes": 105327573,
+  "releaseNotes": "First release: private multi-inbox workspace, disposable address creation, verification codes, sender filters, signup tracking, encrypted backups, and Android update checks."
+}

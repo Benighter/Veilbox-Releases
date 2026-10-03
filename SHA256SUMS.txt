@@ -1,0 +1,2 @@
+7cc80ab0abce5333f0858ee5c3a9975a41a08521936248431100e5c1ba95eb4e  Veilbox-1.0.0.apk
+f844f363b712f3b291cba2f07f73eda117dca45cffd2fee59c8b8e4eb28b9aef  Veilbox-1.0.0-Portable.exe
